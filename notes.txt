@@ -1,0 +1,7 @@
+learned:
+ - using APIs (Google Geocode and DarkSky APIs)
+ - Promises
+ - HTTP requests
+ - dealing with asynchronous requests
+ - chaining multiple Promises
+ - performing the same actions as promises with callbacks
